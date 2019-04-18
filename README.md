@@ -1,6 +1,6 @@
-# jabingu.github.com
+# www.jabingu.com
 
-
+i have change my domain to www,jabingu.com
 
 
 ## License
