@@ -46,7 +46,8 @@ kramdown:
   syntax_highlighter: rouge
 
 # port
-# port: 1234
+#修改jekyll的端口到5001；因为4000被福昕PDF占用了
+port: 5001
 
 # url
 category_dir: category/
@@ -59,5 +60,3 @@ excerpt_separator: "\n\n\n\n"
 #plugins--gems
 plugins: [jekyll-paginate]
 paginate: 6
-#修改jekyll的端口到5001；因为4000被福昕PDF占用了
-port: 5001
