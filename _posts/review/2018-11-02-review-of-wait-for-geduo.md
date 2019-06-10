@@ -3,7 +3,7 @@ layout: post
 title:  "《等待戈多》| 戈多是谁？"
 date:   2018-11-02 22:14:54
 categories: review
-tags: review 豆瓣
+tags: review 豆瓣 阅读
 excerpt: 爱：咱们走吧！
 ---
 
