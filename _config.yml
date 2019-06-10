@@ -31,6 +31,7 @@ description_footer: 本站记录我科研之旅的沿途风景！
 duoshuo_shortname: #hygblog
 disqus_shortname: jabingu
 
+
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
