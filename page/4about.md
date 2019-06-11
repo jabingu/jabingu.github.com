@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## PROFILE
 
 **jabingu (顾怡斌)** is currently a PhD student in Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou.  
 His research interests include:  
@@ -21,12 +21,26 @@ His research interests include:
    - Cache  
  * Software & Hardware Co-design for SSD and Storage Systems  
 
-## 联系我
+## EDUCATION
+
+(2013.09-2017.09) *Hebei University of Technology*, Electronic and Information Engineering, Bachelor Degree
+
+(2017.09-               ) *Huazhong University of Science and Technology*, Computer System Structure, Doctoral Candidate
+
+## EXPERIENCE
+
+(2019.04-2019.08) *Shenzhen DAPU Microelectronics Co., Ltd*, Trainee 
+
+## Awards and Certificates
+
+
+
+## CONTACT ME
 
 * **GitHub：**[jabingu](https://github.com/jabingu)
 * **Email:** <jabingu@hust.edu.cn>, <jabingu@foxmail.com>
 
-## 友情链接
+## LINKS
 
 [羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
 
