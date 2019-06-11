@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "以后的阅读笔记格式"
+title:  "确定的阅读笔记格式"
 date:   2019-06-10 09:16:54
 categories: review
 tags: review  阅读
