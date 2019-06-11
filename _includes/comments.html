@@ -20,19 +20,19 @@
 {% endif %}
 
 {% if site.disqus_shortname %}
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 <script>
-var gitment = new Gitment({
-  id: '页面 ID', // 可选。默认为 location.href
+var gitalk = new Gitalk({
+  clientID: '7eef0377b8ca11a2f010',
+  clientSecret: '03799fc9d2e1e27509d91a55af8e46c786175947',
+  repo: 'jabingucommit',
   owner: 'jabingu',
-  repo: 'gitment',
-  oauth: {
-    client_id: '7eef0377b8ca11a2f010',
-    client_secret: '03799fc9d2e1e27509d91a55af8e46c786175947',
-  },
+  admin: ['jabingu'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
 })
-gitment.render('container')
+gitalk.render('gitalk-container')
 </script>
 {% endif %}
