@@ -1,24 +1,22 @@
 {% if site.duoshuo_shortname %}
-<!-- 多说评论框 start -->
-<div class="ds-thread" data-thread-key="{{ site.url }}{{ page.url }}" data-title="{{page.title}}" data-url="{{ site.url }}{{ page.url }}"></div>
-<!-- 多说评论框 end -->
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    var duoshuoQuery = {
-        short_name: "{{site.duoshuo_shortname}}"
-    };
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';
-        ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
-</script>
+<head>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+</head>
+<body>
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<KgREpFtTOtUzHHbW7Ctpdb0t-gzGzoHsz>',
+            appKey: '<jz1cSK9UPhW0lzP29rcHCncs>'
+        })
+    </script>
+</body>
 <!-- 多说公共JS代码 end -->
 {% endif %}
 
+<!-- jitalk公共JS代码 end -->
 {% if site.disqus_shortname %}
 <div id="gitalk-container"></div>
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
