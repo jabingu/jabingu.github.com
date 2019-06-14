@@ -24,9 +24,33 @@ excerpt: 探戈练习四:基本功，套路的简单练习
 
 ## 套路
 
-| 常步分身 | 前进并合 | 五快步 | 前进锁步 | follow way | 维也纳左转x2 | 西班牙拖步 |
-| :------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| SSQQ     | SQQS     | QQQQS  | SQQn     | QQQQ       | QQn QQn X2   | SSSS       |
+
+<table align="center" >
+    <thead>
+        <tr>
+            <th>常步分身</th>
+            <th>前进并合</th>
+            <th>五快步</th>
+            <th>前进锁步</th>
+            <th>follow way</th>
+            <th>维也纳左转x2</th>
+            <th>西班牙拖步</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>SSQQ</th>
+            <th>SQQS</th>
+            <th>QQQQS</th>
+            <th>SQQn</th>
+            <th>QQQQ</th>
+            <th>QQn QQnx2</th>
+            <th>SSSS</th>
+        </tr>
+    </tbody>
+</table>
+
+
 
 ## 要点
 
