@@ -52,6 +52,10 @@ excerpt: 探戈练习五:基本功，套路的简单练习
 
 
 
+![](https://upload-images.jianshu.io/upload_images/7712298-8a14e88452b7ed25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 ## 要点
 
 1. **分身练习**
