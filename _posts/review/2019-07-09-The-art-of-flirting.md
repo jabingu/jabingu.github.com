@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "《调情的艺术》"
-date:   2019-07-08 09:16:54
+date:   2019-07-09 09:16:54
 categories: review
 tags: review  阅读
 excerpt: 人是否漂亮并不重要，重要的是要自认为长得漂亮。
@@ -15,7 +15,7 @@ excerpt: 人是否漂亮并不重要，重要的是要自认为长得漂亮。
 
 ## 作品简介
 
-**阅读书名**：[**《调情的艺术》**](https://book.douban.com/subject/1004538/)----‘’特隆、乌克巴尔、奥比斯·特蒂乌斯‘’
+**阅读书名**：[**《调情的艺术》**](https://book.douban.com/subject/1004538/)
 
 **作者**：[ 德 ] 布里吉特·布森克普夫
 
