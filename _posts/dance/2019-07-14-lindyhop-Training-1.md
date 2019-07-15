@@ -20,7 +20,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 **地点：**HTD街舞舞蹈工作室（车公庙）
 
-![lindy](https://jabingu.github.io/images/dance/lindyhop1com.jpg)
+
 
 ![](https://upload-images.jianshu.io/upload_images/7712298-b5543db034a4b416.jpg)
 
@@ -56,7 +56,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 - 两人站姿错开，le左脚稍前，fo右脚稍前
 
-## basic step
+## Basic step
 
 - 步伐：`rock step(one+two)+triple step+triple step`
 - 使用**前脚掌**着地
@@ -104,7 +104,15 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 ## 想法
 
-第一节课，内容相对简单，除了Tuck turn越有难度。
+第一节课，内容相对简单，Tuck turn有点难度。
+
+装备活动感觉超级有意思，想要录下来。
+
+花样和之前学过的吉特巴大致类似，脚步有很大的不同，并且增加了很多的细节。
+
+le在跳舞引舞的时候，要让fo感到舒服，传递信号明确，那么应该是成功了。
+
+期待下次的学习。
 
 
 
