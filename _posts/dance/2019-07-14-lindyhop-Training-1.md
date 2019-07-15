@@ -87,14 +87,15 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 ## Change place
 
-- 在one+two中的1.5的样子，le要**抬起**fo的右手，在第一个triple step时候，要**引带**fo左右转。
+- 在`one+two`中的1.5的样子，le要**抬起**fo的右手，在第一个`triple step`时候，要**引带**fo左右转。
 - le要走边侧的路线，让fo走直线，不要挡到fo的线路
-- 结束这个动作之后，两人的连接的手应该是**放松**的状态。因为第一个rock step(one+two)的是，两会后退一小步，手会有一个拉扯
+- 结束这个动作之后，两人的连接的手应该是**放松**的状态。因为第一个`rock step(one+two)`的时候，两个人会后退一小步，手会有一个拉扯，在这个时候手才是拉直的状态
+- le要做好引带的角色，fo要细细体会le給的信号
 
 ## Tuck turn
 
-- le在`one+two`的时候，右手手掌会close，在`triple step`时候会open，后一个`triple step`再close,同时会有一个**push**的力来告诉fo旋转
-- le左手会先反身，再拉着，最后是引带旋转
+- le在`one+two`的时候，右手手掌会close，在第一个`triple step`时候会open，第二个`triple step`再close,同时会有一个**push**的力来告诉fo旋转
+- le左手会先反身，再拉扯，最后是引带旋转
 - fo`one+two`的时候反身，第一个`triple step`时候原地，第二个`triple step`时候再旋转
 
 ![](http://image109.360doc.com/DownloadImg/2019/04/1714/159094970_8_20190417024720831)
@@ -110,6 +111,8 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 花样和之前学过的吉特巴大致类似，脚步有很大的不同，并且增加了很多的细节。
 
 le在跳舞引舞的时候，要让fo感到舒服，传递信号明确，那么应该是成功了。
+
+论带香味的止汗喷雾的重要性。
 
 期待下次的学习。
 
