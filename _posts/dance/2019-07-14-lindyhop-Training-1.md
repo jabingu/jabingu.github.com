@@ -22,13 +22,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 
 
-![](https://upload-images.jianshu.io/upload_images/7712298-b5543db034a4b416.jpg)
-
-----
-
-
-
-![](https://upload-images.jianshu.io/upload_images/7712298-81b09d5ca09e4a63.jpg)
+![](https://wx4.sinaimg.cn/mw690/8e44c8c8gy1g50gxk0s7jj22vk1t4npe.jpg)
 
 
 
@@ -96,7 +90,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 ## Change place
 
-- 在one+two中的1.5的样子，le要**抬起**fo的右手，在第一个triple step时候，要引带fo左右转。
+- 在one+two中的1.5的样子，le要**抬起**fo的右手，在第一个triple step时候，要**引带**fo左右转。
 - le要走边侧的路线，让fo走直线，不要挡到fo的线路
 - 结束这个动作之后，两人的连接的手应该是**放松**的状态。因为第一个rock step(one+two)的是，两会后退一小步，手会有一个拉扯
 
