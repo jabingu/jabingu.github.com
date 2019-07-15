@@ -22,7 +22,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 
 
-![](https://upload-images.jianshu.io/upload_images/7712298-b5543db034a4b416.jpg)
+![](https://upload-images.jianshu.io/upload_images/7712298-81b09d5ca09e4a63.jpg)
 
 ## 上课内容
 
@@ -46,7 +46,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 **左手**
 
-- le拇指并拢，fo轻轻放上
+- le左手拇指并拢，fo轻轻放上
 
 **右手**
 
@@ -72,7 +72,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 **Send out**
 
 - le在`one+two+triple step+triple step`中的`two`时候，使用右手push fo
-- fo的步子由原来的`one+two+triple step+triple step`变为`one+two+triple step+turn+triple step`
+- fo的步子由原来的`one+two+triple step+triple step`变为`one+two+triple step+turn+triple step`在`triple step`之后转身
 
 **pull back**
 
