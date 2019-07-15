@@ -20,19 +20,21 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 **地点：**HTD街舞舞蹈工作室（车公庙）
 
-新浪
-
-![](https://wx4.sinaimg.cn/mw690/8e44c8c8gy1g50gxk0s7jj22vk1t4npe.jpg)
-
-html新浪
-
-<img src="https://wx4.sinaimg.cn/mw690/8e44c8c8gy1g50gxk0s7jj22vk1t4npe.jpg" width="85%" height="85%" />
-
 github
 
 ![](https://github.com/jabingu/jabingu.github.com/raw/master/images/dance/lindyhop1_com2.jpg)
 
+图床
 
+https://imgchr.com/i/ZoRy8K
+https://imgchr.com/i/ZoRsC6
+https://imgchr.com/i/ZoRD4x
+
+
+
+![ZoRy8K.jpg](https://s2.ax1x.com/2019/07/15/ZoRy8K.jpg)
+![ZoRsC6.jpg](https://s2.ax1x.com/2019/07/15/ZoRsC6.jpg)
+![ZoRD4x.jpg](https://s2.ax1x.com/2019/07/15/ZoRD4x.jpg)
 
 
 
