@@ -30,7 +30,7 @@ html新浪
 
 github
 
-![](https://jabingu.github.io/images/lindyhop1_com2.jpg)
+![](https://github.com/jabingu/jabingu.github.com/raw/master/images/dance/lindyhop1_com2.jpg)
 
 
 
