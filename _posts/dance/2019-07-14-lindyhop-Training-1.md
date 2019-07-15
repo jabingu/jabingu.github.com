@@ -42,7 +42,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 [摇摆Jazz : 跳完这些歌你就是舞者了](https://music.163.com/playlist/311055808/248650100/?userid=248650100)
 
-
+![](https://wx4.sinaimg.cn/mw690/8e44c8c8gy1g50gxk0s7jj22vk1t4npe.jpg)
 
 ## 连接
 
