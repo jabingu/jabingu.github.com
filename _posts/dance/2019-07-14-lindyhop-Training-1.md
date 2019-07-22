@@ -66,8 +66,6 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 
 
-
-
 ## Send out & pull back
 
 **Send out**
@@ -92,6 +90,10 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 - le要走边侧的路线，让fo走直线，不要挡到fo的线路
 - 结束这个动作之后，两人的连接的手应该是**放松**的状态。因为第一个`rock step(one+two)`的时候，两个人会后退一小步，手会有一个拉扯，在这个时候手才是拉直的状态
 - le要做好引带的角色，fo要细细体会le給的信号
+
+<center>
+<img src="https://s2.ax1x.com/2019/07/22/eiDt1S.gif" alt="eiDt1S.gif" border="0" />
+</center>
 
 ## Tuck turn
 
