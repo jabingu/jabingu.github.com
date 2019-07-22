@@ -28,7 +28,7 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 1. Tuck turn variation
 2. Change place variation
 3. Change place variation to basic
-4. Pull back variation
+4. 6 count circle
 5. 套路：teapot
 
 
@@ -82,9 +82,9 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 
 
 
-## Pull back variation
+## 6 count circle
 
-**turn**
+**circle**
 
 - 在`1-2`之后两人要**近一点**再近一点，减小两人旋转的半径
 - le/fo在`3n4`的时候要竟可能地**先行旋转**90°/180°，之后在`5n6` 转完剩下的。所以是le旋转180°，fo旋转360°
