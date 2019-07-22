@@ -29,7 +29,7 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 2. Change place variation
 3. Change place variation to basic
 4. Pull back variation
-5. 套路
+5. 套路：teapot
 
 
 
@@ -100,7 +100,7 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 
 
 
-## 套路
+## 套路：teapot
 
 > 自古真情留不住 唯有套路得人心
 
