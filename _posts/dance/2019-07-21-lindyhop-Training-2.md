@@ -20,8 +20,9 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 
 **地点：**HTD街舞舞蹈工作室（车公庙）
 
+![eEyp0U.jpg](https://s2.ax1x.com/2019/07/24/eEyp0U.jpg)
 
-![einzHs.jpg](https://s2.ax1x.com/2019/07/22/einzHs.jpg)
+
 
 ## 上课内容
 
