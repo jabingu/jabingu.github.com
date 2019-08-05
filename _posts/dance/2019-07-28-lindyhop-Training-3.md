@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Lindy-Hop（三）"
+title:  "Lindy-Hop level1（三）"
 date:   2019-07-28 7:30:00
 categories: dance
 tags: dance swing lindyhop
@@ -14,7 +14,7 @@ excerpt: Lindy Hop：教了8 count basic 以及swing out
 >
 > <p align="right">——马莎·格雷厄姆　　</p>
 
-**课程：**Lindy Hop（三）
+**课程：**Lindy Hop level1（三）
 
 **老师：**和尚 & 大花
 

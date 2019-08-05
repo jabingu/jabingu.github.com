@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Lindy-Hop（一）"
+title:  "Lindy-Hop level1（一）"
 date:   2019-07-14 7:30:00
 categories: dance
 tags: dance swing lindyhop
@@ -14,7 +14,7 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 >
 > <p align="right">——马莎·格雷厄姆　　</p>
 
-**课程：**Lindy Hop（一）
+**课程：**Lindy Hop level1（一）
 
 **老师：**和尚 & 大花
 

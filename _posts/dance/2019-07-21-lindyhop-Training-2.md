@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Lindy-Hop（二）"
+title:  "Lindy-Hop level1（二）"
 date:   2019-07-21 7:30:00
 categories: dance
 tags: dance swing lindyhop
@@ -14,7 +14,7 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 >
 > <p align="right">——马莎·格雷厄姆　　</p>
 
-**课程：**Lindy Hop（二）
+**课程：**Lindy Hop level1（二）
 
 **老师：**和尚 & Fay
 
