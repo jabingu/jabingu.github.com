@@ -36,7 +36,7 @@ excerpt: Lindy Hop：swing out from open & lindy circle
 
 > 节奏变化：`1 - 2 - 3 - 4 - 5 - 6 - 7 - 8`，变为`8 - 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8`
 
-- **核心**是：le在前一个`8`的的时候身体一个向后的力对fo进行**拉扯**，使其在`1-2`的rock step不是向后而是**向前**的
+- **核心**是：le在前一个`8`做 `triple step`的的时候身体一个向后的力对fo进行**拉扯**，使其在`1-2`的 `rock step` 不是向后而是**向前**的
 
 - **line swing out** ：swing out 更多是**直线**上的动作，所以在`5-6`的`step-step`时候，只需要給一个短时间的里进行信号的传递就可以了，fo自己会完成剩下的动作，（可以想象如果我们一直搭着手，就会变成陀螺一样进行旋转了）
 
@@ -49,7 +49,7 @@ excerpt: Lindy Hop：swing out from open & lindy circle
 ## lindy circle 
 
 - 和之前的 6 count circle 一样，两个人要**比close还有close**，才可以方便的进行circle
-- 两人是在旋转的时候是以两人的中间为圆心进行的，这样两人移动距离都比较适当。这也意味这fo和在很主动的进行旋转
+- 两人是在旋转的时候是以两人的中间为圆心进行的，这样两人移动距离都比较适当。这也意味这fo是要很主动的进行旋转
 
 <center>
 <img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop1-4/lindy-circlecom.gif" alt="e33aY4.gif" border="0">
