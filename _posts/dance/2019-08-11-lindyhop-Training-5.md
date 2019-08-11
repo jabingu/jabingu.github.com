@@ -44,8 +44,8 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 
 > 节奏：`1 - 2 - 3 - 4 - 5 - 6 - 7 - 8`
 
-- 目前来看swing out variation 是发生在后四拍的，前四拍不管是basic或者是在open状态都是可以的
-- 这里将swing out outside turn 根据信号的传递的不同划分为两种，swing out outside turn 以及 swing out outside turn hands release ，前者le是靠左手来引带（lead），后者le是靠右手来引带
+- 目前来看swing out variation 是发生在**后四拍**的，前四拍不管是basic或者是在open状态都是可以的
+- 这里将swing out outside turn 根据信号的传递的不同划分为两种：swing out outside turn 以及 swing out outside turn hands release ，前者le是靠左手来引带（lead），后者le是靠右手来引带
 
 **le**
 
@@ -56,7 +56,7 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 **fo**
 
 - 不管是在做什么swing out 的时候，都要明白一点，我们做的是 **line swing out**，这强调不是动作，更多是一个感念上的东西，fo在做swing out 的时候要**主动的去确保**自己动作做完之后是在直线上（<u>要知道le在做swing out 的时候是会给fo让出道路来的，如果fo再往别的地方跑，le真的好气！</u>）
-- 如何做到一个line swing out呢，就是在旋转的时候不要原地的进行，而是再加上一个水平上的位移。另外一点就是要把旋转进行切分，每一步转一点角度，这样不会说需要一次通过身体的拧转来达到这样的角度。
+- 如何做到一个line swing out呢，就是在旋转的时候不要原地的进行，而是再加上一个**水平上的位移**。另外一点就是要把旋转进行切分，每一步转一点角度，这样不会说需要一次通过身体的拧转来达到这样的角度。
 
 <center>
 <img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-1/swing%20out%20outside%20turn04.GIF" alt="e33aY4.gif" border="0">
@@ -92,7 +92,7 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 
 **le**
 
-- le在`5-6` 的时候，为了更好的完成这个动作，应该要保持一个**lindy posture** ，身体要**微微的前倾**，因为这个动作其实是相当于le要左手要去找自己的右手的，如果身体是笔直的状态，那将无法完成
+- le在`5-6` 的时候，为了更好的完成这个动作，应该要保持一个**lindy posture** ，身体要**微微的前倾**，因为这个动作其实是相当于le要左手要绕过fo去找自己的右手的，如果身体是笔直的状态，那将无法完成
 - le用右手接过fo的右手之后，手应该是一个**弱连接**的状态，因为之后fo还会有旋转，两人的手会有一些转动
 - le右手保持一个相对较**低的姿态**
 
