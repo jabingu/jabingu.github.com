@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tensorflow ：使用Estimators来实现LSTM进行时间序列的预测"
+title:  "Tensorflow ：使用Estimators实现LSTM进行时间序列预测"
 date:   2019-08-12 6:30:00
 categories: ML
 tags: ML Tensorflow 
