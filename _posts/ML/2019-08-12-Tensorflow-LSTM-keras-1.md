@@ -3,7 +3,7 @@ layout: post
 title:  "Tensorflow ：使用keras实现LSTM进行时间序列预测"
 date:   2019-08-12 7:31:00
 categories: ML
-tags: ML Tensorflow 
+tags: ML Tensorflow timeseries
 excerpt: Tensorflow ：使用keras来实现LSTM进行时间序列的预测
 mathjax: 1
 ---
