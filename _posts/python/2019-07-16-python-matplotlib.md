@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "py画图通用模版"
+title:  "py：画图通用模版"
 date:   2019-07-16 07:14:54
 categories: python
 tags: python matplotlib
@@ -46,7 +46,7 @@ date_x=list(range(0,10)) #x坐标
 date_y1=list(range(0,10))#y坐标
 date_y2=list(range(1,11))#y坐标
 
-plt.figure(1)#生成第一个画布
+plt.figure()#生成第一个画布
 plt.grid()   #生成网格
 plt.title("复杂的模版")  #添加标题
 plt.xlabel('this is x')#x坐标名字
@@ -60,6 +60,37 @@ plt.show()
 
 
 <center><img src="https://s2.ax1x.com/2019/07/17/Zq28ZF.png" alt="Zq28ZF.png" border="0"></center>
+
+## 函数封装
+
+为了更加方便的使用画图函数，对画图函数进行了封装。其中
+
+**输入：**
+
+- **fugure_name**：标题
+- **y_name**：纵坐标名字
+- **data_x**：横坐标数据
+- **data_y**：纵坐标数据
+- **curve**：曲线式样，默认为直线
+
+```python
+import matplotlib.pyplot as plt#导入库
+from pylab import mpl
+mpl.rcParams['font.sans-serif'] = ['SimHei'] #指定默认字体
+mpl.rcParams['axes.unicode_minus'] = False   #解决保存图像是负号'-'显示为方块的问题
+
+'''个人的画图函数'''
+def guFigure(fugure_name,y_name,data_x,data_y,curve='-'):
+    plt.figure()            #新建图纸
+    plt.title(fugure_name)  #添加标题
+    plt.plot(data_x,data_y,curve,label=y_name)
+    plt.grid()              #显示网格
+    plt.legend()            #显示图例
+    plt.show()  
+```
+
+
+
 
 
 ## 参数说明
