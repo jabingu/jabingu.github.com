@@ -22,7 +22,7 @@ excerpt: Lindy Hop level 2：swing out inside & Footworks
 
 ![mlvdQe.jpg](https://s2.ax1x.com/2019/08/19/mlvdQe.jpg)
 
-（没办法，只好自己PS了一张大合照，疯狂暗示）
+（没办法，只好自己PS了一张大合照）
 
 
 
