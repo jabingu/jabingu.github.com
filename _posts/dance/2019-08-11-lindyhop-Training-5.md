@@ -94,7 +94,7 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 
 - le在`5-6` 的时候，为了更好的完成这个动作，应该要保持一个**lindy posture** ，身体要**微微的前倾**，因为这个动作其实是相当于le要左手要绕过fo去找自己的右手的，如果身体是笔直的状态，那将无法完成
 - le用右手接过fo的右手之后，手应该是一个**弱连接**的状态，因为之后fo还会有旋转，两人的手会有一些转动
-- le右手保持一个相对较**低的姿态**
+- le右手保持一个相对较**低的姿态**；这里保持一个较低的姿势不是说你一开始保持就ok了，必须要等到fo转完才可以进行身位上的变化
 
 <center>
 <img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-1/Texas%20Tommy04.GIF" alt="e33aY4.gif" border="0">

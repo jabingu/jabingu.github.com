@@ -60,10 +60,11 @@ plt.show()
 
 
 <center><img src="https://s2.ax1x.com/2019/07/17/Zq28ZF.png" alt="Zq28ZF.png" border="0"></center>
-
 ## 函数封装
 
-为了更加方便的使用画图函数，对画图函数进行了封装。其中
+**（20190819添加）**为了更加方便的使用画图函数，对画图函数进行了**封装**。其中
+
+### 单条曲线显示
 
 **输入：**
 
@@ -89,7 +90,45 @@ def guFigure(fugure_name,y_name,data_x,data_y,curve='-'):
     plt.show()  
 ```
 
+### 多条曲线显示
 
+**功能：**可以显示一条直线或者是多条曲线来进行显示
+
+**输入：**
+
+- **fugure_name**：标题： 单个str类型
+- **y_name**：纵坐标名字：单个str类型或者是多个list类型
+- **data_x**：横坐标数据：  单个
+- **data_y**：纵坐标数据：  单个list或者是list[list[]]
+- **curve**：曲线式样，默认为直线
+
+```python
+'''个人的画图函数'''
+def guFigure(fugure_name,y_name,data_x,data_y,curve='-')    :
+    plt.figure()            #新建图纸
+    plt.title(fugure_name)  #添加标题
+    if type(y_name)==str:
+        plt.plot(data_x,data_y,curve,label=y_name)
+    else:
+         for i in range(0,len(y_name)):
+             plt.plot(data_x,data_y[i],curve,label=y_name[i])
+    plt.grid()              #显示网格
+    plt.legend()            #显示图例
+    plt.show()  
+```
+
+**例子：**
+
+```python
+'''显示两条直线'''
+fugure_name='多个曲线显示'
+y_name=['first',"second"]
+data_x=range(0,10)
+daya_y1=range(0,10)
+daya_y2=range(1,11)
+data_y=[daya_y1,daya_y2]
+guFigure(fugure_name,y_name,data_x,data_y,curve='-') 
+```
 
 
 
