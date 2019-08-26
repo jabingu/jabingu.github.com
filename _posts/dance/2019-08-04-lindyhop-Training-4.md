@@ -5,6 +5,8 @@ title:  "Lindy-Hop level1（四）"
 date:   2019-08-04 7:30:00
 categories: dance
 tags: dance swing lindyhop
+thumbnail: "assets/img/post/swing.jpg"
+feature-img: "assets/img/post/swing.jpg"
 excerpt: Lindy Hop：swing out from open & lindy circle
 ---
 

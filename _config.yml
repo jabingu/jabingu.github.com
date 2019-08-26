@@ -1,17 +1,131 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://sylhare.github.io"
+title: jabingu # site's title
+description: "A website with blog posts and pages" # used by search engines
 
-# Site settings
-title: jabingu
-brief-intro: PhD student
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jabingu.github.io" # the base hostname & protocol for your site
+defaults:
+  - 
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: assets/img/triangle.png # seo tag
 
-permalink: /:year/:month/:day/:title/
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  avatar: assets/img/triangle.png
+  color_image: /assets/img/lineart.png # In post when you set color
+  favicon: assets/favicon.ico
+
+  # Header and footer text
+  header_text: Either crazy or death
+  header_feature_image: assets/img/pexels/triangular.jpeg
+  footer_text: 
+
+  # Icons
+  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  email_address: jabingu@foxmail.com # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  gitlab:
+  github: "jabingu"
+  google_plus:
+  instagram:
+  keybase:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: # "twitter username"
+  vimeo:
+  wordpress:
+  youtube:
+
+  # Sharing options
+  share_buttons:
+    facebook: true
+    twitter: true
+    tumblr:
+    pinterest:
+    pocket:
+    reddit: true
+    linkedin:
+    wordpress:
+    email: true
+
+  # Scripts / Features 
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  baidu_tongji_id: d77a5f3f0af7c9cdad2f7deb3be817e8
+  disqus_shortname: jabingu
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_share_on: "Share on"
+  str_add_to: "Add to"
+  str_email: "Email"
+  str_tweet: "Tweet"
+  str_pin_it: "Pin it"
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+
+  # Post navigation
+  post_navigation: true
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# AUTHORS
+authors:
+  mhagnumdw: # author-id
+    name: MhagnumDw
+    avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
+    url: 
+  sylhare:
+    name: Sylhare
+    avatar: "assets/img/avatars/sylhare_avatar.png"
+    url: "https://github.com/jabingu"
+
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+port: 5001
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag]
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea",
+          "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
+# theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap # If using as a remote_theme in github
+
+
+
+# url
+category_dir: category/
+tag_dir: tag/
 
 # other links
 twitter_username: 
@@ -23,41 +137,4 @@ zhihu_username:
 linkedIn_username: 怡斌-顾-862715185
 dribbble_username:
 
-description_footer: 本站记录我科研之旅的沿途风景！
-
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #jabingu
-disqus_shortname: jabingu
-
-
-# statistic analysis 统计代码
-# 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
-# xxxxx字符串
-baidu_tongji_id: d77a5f3f0af7c9cdad2f7deb3be817e8
-google_analytics_id: #UA-72449510-4 # google 分析追踪id
-
-# Build settings
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# port
-#修改jekyll的端口到5001；因为4000被福昕PDF占用了
-port: 5001
-
-# url
-category_dir: category/
-tag_dir: tag/
-
-# excerpt
-excerpt_separator: "\n\n\n\n"
-
-# paginate
-#plugins--gems
-plugins: [jekyll-paginate]
-paginate: 6
+description_footer: 

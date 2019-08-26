@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\js",
+    "\\assets\\js\\partials",
+    "\\_includes",
+    "\\_layouts",
+    "\\_sass",
+    "\\_sass\\base",
+    "\\_sass\\includes",
+    "\\_sass\\layouts"
   ],
+  "SelectedNode": "\\assets\\js\\partials\\navbar.js",
   "PreviewInSolutionExplorer": false
 }

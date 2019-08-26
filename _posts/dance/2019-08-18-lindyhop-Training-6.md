@@ -5,6 +5,8 @@ title:  "Lindy-Hop level2（二）"
 date:   2019-08-18 7:30:00
 categories: dance
 tags: dance swing lindyhop
+thumbnail: "assets/img/post/swing.jpg"
+feature-img: "assets/img/post/swing.jpg"
 excerpt: Lindy Hop level 2：swing out inside & Footworks 
 ---
 

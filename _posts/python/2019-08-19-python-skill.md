@@ -5,6 +5,8 @@ title:  "py：python的一些使用技巧"
 date:   2019-08-19 11:19:54
 categories: python
 tags: python 
+thumbnail: "assets/img/post/python.jpg"
+feature-img: "assets/img/post/python.jpg"
 excerpt: python使用上的技巧，或者说是代码的规范
 ---
 

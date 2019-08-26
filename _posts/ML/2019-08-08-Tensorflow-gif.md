@@ -4,6 +4,8 @@ title:  "Tensorflow ：动态图显示结果"
 date:   2019-08-08 6:30:00
 categories: ML
 tags: ML Tensorflow 
+thumbnail: "assets/img/post/tensorflow.jpg"
+feature-img: "assets/img/post/tensorflow.jpg"
 excerpt: 使用动态图片来对TensorFlow 的数据进行可视化
 ---
 

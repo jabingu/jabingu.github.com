@@ -1,0 +1,28 @@
+<ul class="posts">
+    {% for post in paginator.posts %}
+    <li class="post-teaser">
+        {% if post.thumbnail %}
+        <div class="post-img">  
+            <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
+                <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
+            </a>
+        </div>
+        {% endif %}
+        
+          <header>
+            <h2>
+              <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h2>
+            {% include post_info.html post=post %}
+          </header>
+          <div class="excerpt">
+              {{ post.excerpt | strip_html | escape }}
+          </div>
+     
+    </li>
+    {% endfor %}
+</ul>
+
+{% include blog_nav.html %}

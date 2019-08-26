@@ -5,6 +5,8 @@ title:  "Lindy-Hop level1（一）"
 date:   2019-07-14 7:30:00
 categories: dance
 tags: dance swing lindyhop
+thumbnail: "assets/img/post/swing.jpg"
+feature-img: "assets/img/post/swing.jpg"
 excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 ---
 

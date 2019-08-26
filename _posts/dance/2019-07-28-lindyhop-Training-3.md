@@ -5,6 +5,8 @@ title:  "Lindy-Hop level1（三）"
 date:   2019-07-28 7:30:00
 categories: dance
 tags: dance swing lindyhop
+thumbnail: "assets/img/post/swing.jpg"
+feature-img: "assets/img/post/swing.jpg"
 excerpt: Lindy Hop：教了8 count basic 以及swing out
 ---
 

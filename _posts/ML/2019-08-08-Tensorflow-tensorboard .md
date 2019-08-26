@@ -4,6 +4,8 @@ title:  "Tensorflow ：TensorBoard可视化学习"
 date:   2019-08-08 7:30:00
 categories: ML
 tags: ML Tensorflow 
+thumbnail: "assets/img/post/tensorflow.jpg"
+feature-img: "assets/img/post/tensorflow.jpg"
 excerpt: 使用TensorBoard来对TensorFlow 的数据进行可视化
 ---
 
