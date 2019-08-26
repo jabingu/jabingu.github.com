@@ -2,7 +2,6 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\js\\partials",
     "\\pages",
     "\\_includes",
     "\\_layouts",
@@ -11,6 +10,6 @@
     "\\_sass\\includes",
     "\\_sass\\layouts"
   ],
-  "SelectedNode": "\\_layouts\\post.html",
+  "SelectedNode": "\\_includes\\category.html",
   "PreviewInSolutionExplorer": false
 }
