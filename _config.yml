@@ -102,10 +102,10 @@ authors:
     url: "https://github.com/jabingu"
 
 # PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
+#collections:
+  #portfolio:
+    #output: true
+permalink: /:year/:month/:day/:title/
 
 port: 5001
 
