@@ -6,8 +6,11 @@
 }
 
 article {
-  @extend .comments;
-
+  //@extend .comments;
+  @extend %padding-regular;
+  border-bottom: 0px solid $border-color;
+  float: left;
+  width: 100%;
   header {
     margin-bottom: 6%;
     text-align: center;
