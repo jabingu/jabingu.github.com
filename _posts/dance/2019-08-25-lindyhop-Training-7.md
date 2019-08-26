@@ -22,7 +22,7 @@ excerpt: Lindy Hop level 2：更多在感觉两人之间相互的力
 
 **地点：**U·乐街舞培训中心
 
-![mlvdQe.jpg](https://s2.ax1x.com/2019/08/19/mlvdQe.jpg)
+![mlvdQe.jpg](https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-3/lindyhop23com.jpg)
 
 
 
