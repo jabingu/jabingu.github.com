@@ -24,7 +24,7 @@ i have change my domain to www.jabingu.com
 
 2019.7.24 增加了页面对于数学公式的支持。在`_includes/head.html`中添加代码。参考[MathJax入门指南](https://mathjax-chinese-doc.readthedocs.io/en/latest/start.html)
 
-
+2019.8.26 更改了新的博客模版，并且将之前的博客上功能进行了移植。
 
 
 
