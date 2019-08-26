@@ -5,6 +5,8 @@ title:  "Lindy-Hop level2（一）"
 date:   2019-08-11 7:30:00
 categories: dance
 tags: dance swing lindyhop
+thumbnail: "assets/img/post/swing.jpg"
+feature-img: "assets/img/post/swing.jpg"
 excerpt: Lindy Hop level 2：更多的教学一些swing out variation 
 ---
 

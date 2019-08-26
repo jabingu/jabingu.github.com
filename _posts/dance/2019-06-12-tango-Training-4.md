@@ -4,6 +4,8 @@ title:  "探戈练习（四）"
 date:   2019-06-12 09:16:54
 categories: dance
 tags: dance tango
+thumbnail: "assets/img/post/tango.jpg"
+feature-img: "assets/img/post/tango.jpg"
 excerpt: 探戈练习四:基本功，套路的简单练习
 ---
 

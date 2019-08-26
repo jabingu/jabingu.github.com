@@ -4,6 +4,8 @@ title:  "时间序列：自回归模型（AR）"
 date:   2019-08-13 06:14:54
 categories: math
 tags: math timeseries
+thumbnail: "assets/img/post/time.jpg"
+feature-img: "assets/img/post/time.jpg"
 excerpt: 利用自回归模型（AR）预测时间序列
 mathjax: 1
 ---

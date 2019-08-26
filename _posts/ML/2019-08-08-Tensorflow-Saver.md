@@ -4,6 +4,8 @@ title:  "Tensorflow ：Saver 保存读取"
 date:   2019-08-08 6:30:00
 categories: ML
 tags: ML Tensorflow 
+thumbnail: "assets/img/post/tensorflow.jpg"
+feature-img: "assets/img/post/tensorflow.jpg"
 excerpt: 使用Saver来保存读取
 ---
 

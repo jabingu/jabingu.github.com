@@ -5,6 +5,8 @@ title:  "py：画图通用模版"
 date:   2019-07-16 07:14:54
 categories: python
 tags: python matplotlib
+thumbnail: "assets/img/post/python.jpg"
+feature-img: "assets/img/post/python.jpg"
 excerpt: python使用matplotlib来进行画图的通用模版，方便日后的使用
 ---
 

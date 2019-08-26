@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+
+<div class="page clearfix">
+    <div class="left">
+
+        {% capture tags %}
+            {% for tag in site.tags %}
+                {{ tag[0] }}
+            {% endfor %}
+        {% endcapture %}
+        {% assign sortedtags = tags | split:' ' | sort %}
+        {% include tags_list.html tags=sortedtags %}
+        <ul>
+            {% for tag in sortedtags %}
+            <h2 id="{{ tag }}">{{ tag }}</h2>
+            {% for post in site.tags[tag] %}
+            <li>
+                <time>
+                    {{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
+                </time>
+                <a class="title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+                {% include category.html %}
+                {% include tag.html %}
+            </li>
+            {% endfor %}
+            {% endfor %}
+        </ul>
+
+    </div>
+
+</div>
