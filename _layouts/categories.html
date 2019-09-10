@@ -12,7 +12,7 @@ layout: page
         {% endcapture %}
         {% assign sortedcategories = categories | split:' ' | sort %}
         {% for category in sortedcategories %}
-        <a  class="button" href="{{ "/categories" | relative_url }}#{{ category | cgi_escape }}">
+        <a  class="button" href="{{ "/category" | relative_url }}#{{ category | cgi_escape }}">
           <p><i class="fa fa-th-list"></i> {{ category }} ({{ site.categories[category].size }})</p>
         </a>  
         {% endfor %}
@@ -29,7 +29,7 @@ layout: page
                             {{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
                             </time>
                             <a class="title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
+                            
                             {% include category.html %}
                             {% include tag.html %}
                         </li>
