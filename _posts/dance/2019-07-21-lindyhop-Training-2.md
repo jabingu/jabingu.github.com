@@ -32,7 +32,7 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 2. Change place variation
 3. Change place variation to basic
 4. 6 count circle
-5. 套路：teapot
+5. combo : teapot
 
 
 
@@ -90,7 +90,7 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 **circle**
 
 - 在`1-2`之后两人要**近一点**再近一点，减小两人旋转的半径
-- le/fo在`3n4`的时候要竟可能地**先行旋转**90°/180°，之后在`5n6` 转完剩下的。所以是le旋转180°，fo旋转360°
+- le/fo在`3n4`的时候要尽可能地**先行旋转**90°/180°，之后在`5n6` 转完剩下的。所以是le旋转180°，fo旋转360°
 - 两人是在旋转的时候是以两人的中间为圆心进行的，这样两人移动距离都比较适当。
 
 **fo**
@@ -103,7 +103,7 @@ excerpt: Lindy Hop:在第一课的基础上，增加了一下变型，之后简�
 
 
 
-## 套路：teapot
+## combo ：teapot
 
 > 自古真情留不住 唯有套路得人心
 
