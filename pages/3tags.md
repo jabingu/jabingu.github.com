@@ -1,7 +1,7 @@
 ---
 layout: tags
 title: Tags
-permalink: /tags/
+permalink: /tag/
 feature-img: "assets/img/pexels/circuit1.jpg"
 ---
 
