@@ -31,7 +31,7 @@ excerpt: Linux IO性能分析blktrace
 sudo blktrace /dev/nvme0n1
 ```
 
-结果输出为N个文件。和测试的IO线程数目有关，为二进制文件
+使用`Ctrl+c`结束收集结果；输出为N个文件。和测试的IO线程数目有关，为二进制文件
 
 ```bash
 nvme0n1.blktrace.0
