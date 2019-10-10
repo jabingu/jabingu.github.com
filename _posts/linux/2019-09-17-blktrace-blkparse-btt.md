@@ -63,6 +63,7 @@ btt -i nvme0n1.bin > nvme0n1.sta
 ### 4、IO延时
 
 ```
+btt -i nvme0n1.bin -l nvme0n1.d2c_latency
 btt -i nvme0n1.bin -q nvme0n1.q2c_latency
 ```
 
