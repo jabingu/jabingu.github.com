@@ -10,7 +10,7 @@
     -->
     
     {% for tag in sortedtags %}
-      <a  class="button" href="{{ "/tags" | relative_url }}#{{ tag | cgi_escape }}">
+      <a  class="button" href="{{ "/tag" | relative_url }}#{{ tag | cgi_escape }}">
         <p><i class="fa fa-tag fa-fw"></i> {{ tag }} ({{ site.tags[tag].size }})</p>
       </a>  
 
