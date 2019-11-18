@@ -74,7 +74,7 @@ btt -i nvme0n1.bin -q nvme0n1.q2c_latency
 **一个I/O请求，从应用层到底层块设备，路径如下图所示：**
 
 <center>
-<img src="http://bean-li.github.io/assets/IO/io_path_simple.png" border="0">
+<img src="https://i.loli.net/2019/11/18/9JFAr5iDoU4u2Ip.png" border="0">
 </center>
 
 **一个I/O请求进入block layer之后，可能会经历下面的过程：**
@@ -88,13 +88,13 @@ btt -i nvme0n1.bin -q nvme0n1.q2c_latency
 **blktrace 能够记录下IO所经历的各个步骤:**
 
 <center>
-<img src="http://bean-li.github.io/assets/IO/blktrace_architecture.png" border="0">
+<img src="https://i.loli.net/2019/11/18/CoAp5y2zBtSwIR1.png" border="0">
 </center>
 
 **我们一起看下blktrace的输出长什么样子：**
 
 <center>
-<img src="http://bean-li.github.io/assets/IO/blktrace_out.png" border="0">
+<img src="https://i.loli.net/2019/11/18/sCAvSzlXUBxqeOj.png" border="0">
 </center>
 
 - 第一个字段：8,0 这个字段是设备号 major device ID和minor device ID。
