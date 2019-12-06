@@ -71,7 +71,6 @@ plt.show()
 ###  效果图：
 
 <center><img src="https://i.loli.net/2019/11/28/gC8TyMv4GR2sDEx.png" alt="bar.png" border="0"></center>
-
 ## 图案填充
 
 > 使用过程中，有一些论文中会要求颜色黑白化，所以我们要在柱状图内部填充其他图案来进行区别
@@ -116,6 +115,33 @@ rects2 = ax.bar(x + width/2, women_means, width, label='Women',hatch='.')
 ### 效果图：
 
 <center><img src="https://i.loli.net/2019/11/28/6UlAQBL7x1fm5YK.png" alt="bar_hatch.png" border="0"></center>
+## 显示边框
+
+> 使用`edgecolor='black'`把边框显示出来
+>
+> 另外可以使用`linewidth=x`，来改变边框大小，无颜色默认为0，有颜色默认为1
+
+把原来的
+
+```python
+rects1 = ax.bar(x - width/2, men_means, width, label='Men',hatch='/')
+rects2 = ax.bar(x + width/2, women_means, width, label='Women',hatch='.')
+```
+
+改为
+
+```python
+rects1 = ax.bar(x - width/2, men_means, width, edgecolor='black',label='Men',hatch='/')
+rects2 = ax.bar(x + width/2, women_means, width, edgecolor='black',label='Women',hatch='.')
+```
+
+### 效果图：
+
+<center><img src="https://i.loli.net/2019/12/06/zVqKb7AJTB2NI14.png" alt="bar_hatch_edge.png" border="0"></center>
+
+
+
+
 
 ## bar常用参数
 
