@@ -26,7 +26,7 @@ excerpt: Linux IO性能分析blktrace
 挂载debugfs文件系统
 
 ```python
-mount –t debugfs debugfs /sys/kernel/debug
+mount -t debugfs debugfs /sys/kernel/debug
 ```
 
 或者在/etc/fstab中添加下面一行以便在开机启动的时候自动挂载
