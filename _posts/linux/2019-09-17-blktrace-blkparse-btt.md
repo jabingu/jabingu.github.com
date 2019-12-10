@@ -21,6 +21,20 @@ excerpt: Linux IO性能分析blktrace
 > - 通过blkparse可以将这些文件整合成一个文件来显示。
 > - 通过btt分析后会发现监控数据
 
+### 0、Debugfs挂载
+
+挂载debugfs文件系统
+
+```python
+mount –t debugfs debugfs /sys/kernel/debug
+```
+
+或者在/etc/fstab中添加下面一行以便在开机启动的时候自动挂载
+
+```python
+debug /sys/kernel/debug debugfs default 0 0
+```
+
 
 
 ### 1、使用blktrace捕获trace。
