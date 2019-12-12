@@ -4,7 +4,7 @@ layout: post
 title:  "py：获取大文件的第一和最后一行数据"
 date:   2019-12-11 07:14:54
 categories: python
-tags: python matplotlib
+tags: python 
 thumbnail: "assets/img/post/python.jpg"
 feature-img: "assets/img/post/python.jpg"
 excerpt: python获取文件的第一或者是最后几行的数据
