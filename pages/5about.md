@@ -41,7 +41,7 @@ His research interests include:
 
 
 * **GitHub：**[jabingu](https://github.com/jabingu)
-* **Email:** <jabingu@hust.edu.cn>, <jabingu@foxmail.com>,<jabingu.cs@gmail.com>
+* **Email:** <yibingu@hust.edu.cn>, <jabingu@foxmail.com>,<jabingu.cs@gmail.com>
 
 ## LINKS
 
