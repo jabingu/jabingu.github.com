@@ -22,7 +22,7 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 
 **地点：**心海艺舞工作室（桃园）
 
-![e38kh4.jpg](https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-1/lindyhop21com.jpg)
+![e38kh4.jpg](https://s1.ax1x.com/2020/09/01/dxSRL8.jpg)
 
 
 
@@ -61,8 +61,9 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 - 如何做到一个line swing out呢，就是在旋转的时候不要原地的进行，而是再加上一个**水平上的位移**。另外一点就是要把旋转进行切分，每一步转一点角度，这样不会说需要一次通过身体的拧转来达到这样的角度。
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-1/swing%20out%20outside%20turn04.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxSLLT.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 
@@ -77,8 +78,9 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 - 在swing out （应该包括其他的舞步）在动作的结束之后，如果没有意外，我们应该是要接着做基本的rock step，而不是做完之后停在那里。
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-1/swing%20out%20outside%20turn%20hands%20release04.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxpPQx.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 ### 其他变型
 
@@ -87,8 +89,9 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 - 在`7-8` 的时候后退的triple step 变为向前的，并且在时间的控制上有一点加速
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-1/swing%20out%20outside%20turn%20hands%20release%20variation04.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dx952n.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 ## Texas Tommy
 
@@ -99,8 +102,9 @@ excerpt: Lindy Hop level 2：更多的教学一些swing out variation
 - le右手保持一个相对较**低的姿态**；这里保持一个较低的姿势不是说你一开始保持就ok了，必须要等到fo转完才可以进行身位上的变化
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-1/Texas%20Tommy04.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxC0dU.gif" border="0">
 </center>
+
 
 
 

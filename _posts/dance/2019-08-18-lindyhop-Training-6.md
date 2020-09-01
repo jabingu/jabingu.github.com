@@ -49,16 +49,18 @@ excerpt: Lindy Hop level 2：swing out inside & Footworks
 - <u>在学习inside turn之后要感受le力的不同去做出outside或者是inside的变化</u>
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-2/swing%20out%20Inside%20turncom.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxCHSA.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 ### swing out Inside turn 简单变型
 
 - 通过两者，我们可以知道，inside turn 的时候，**le右手带动fo走直线，左手带动fo转身**
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-2/swing%20out%20Inside%20turn1com.png" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxCjw8.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 
@@ -67,24 +69,27 @@ excerpt: Lindy Hop level 2：swing out inside & Footworks
 ### kick-ball-change
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-2/kick-ballcom.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxPPln.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 ### swing out with kick-ball-change
 
 > 之前的swing out 的变型，是在后面4拍上进行的，是fo的inside & outside turn，这个算是组合的范畴。而这里教的脚步上的变化算是动作的变型。
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-2/swing%20out%20with%20kick-ball-changecom.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxPAmV.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 ## swing out with hold-hold
 
 看图说话
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-2/swing%20out%20with%20hold-holdcom.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxPnfJ.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 

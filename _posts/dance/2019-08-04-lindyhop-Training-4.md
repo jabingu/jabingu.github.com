@@ -22,7 +22,7 @@ excerpt: Lindy Hop：swing out from open & lindy circle
 
 **地点：**HTD街舞舞蹈工作室（车公庙）
 
-![e38kh4.jpg](https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop1-4/lindyhop41.jpg)
+![lindyhop42.jpg](https://s1.ax1x.com/2020/09/01/dvx5nS.jpg)
 
 
 
@@ -43,8 +43,9 @@ excerpt: Lindy Hop：swing out from open & lindy circle
 - **line swing out** ：swing out 更多是**直线**上的动作，所以在`5-6`的`step-step`时候，只需要給一个短时间的里进行信号的传递就可以了，fo自己会完成剩下的动作，（可以想象如果我们一直搭着手，就会变成陀螺一样进行旋转了）
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop1-4/swing-out-from-opencom.gif" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dvzEjK.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 
@@ -54,16 +55,18 @@ excerpt: Lindy Hop：swing out from open & lindy circle
 - 两人是在旋转的时候是以两人的中间为圆心进行的，这样两人移动距离都比较适当。这也意味这fo是要很主动的进行旋转
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop1-4/lindy-circlecom.gif" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dvz8jf.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 
 ## swing out with a twist
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop1-4/swing-out-with-a-twistcom.gif" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dvz5gx.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 

@@ -22,7 +22,7 @@ excerpt: Lindy Hop level 2：更多在感觉两人之间相互的力
 
 **地点：**U·乐街舞培训中心
 
-![mlvdQe.jpg](https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-3/lindyhop23com.jpg)
+![mlvdQe.jpg](https://s1.ax1x.com/2020/09/01/dxPMlR.jpg)
 
 
 
@@ -49,8 +49,9 @@ excerpt: Lindy Hop level 2：更多在感觉两人之间相互的力
 - fo在`3-4`的时候要保持向前的力的**惯性**，直到le给向后的力
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-3/basket%20swing%20out.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxPYkD.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 ## Suger Push
 
@@ -62,8 +63,9 @@ excerpt: Lindy Hop level 2：更多在感觉两人之间相互的力
 - 大拇指放在自己的食指上，不然，两个人就锁住了，le想右手松开做其他的动作会有困难
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-3/suger%20push.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxPapd.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 
@@ -77,8 +79,9 @@ excerpt: Lindy Hop level 2：更多在感觉两人之间相互的力
 - fo要保持在自己的区域内进行旋转
 
 <center>
-<img src="https://jabingu-1259780114.cos.ap-guangzhou.myqcloud.com/blogs/lindyhop2-3/Sailor%20Kicks.GIF" alt="e33aY4.gif" border="0">
+<img src="https://s1.ax1x.com/2020/09/01/dxPr0f.gif" alt="e33aY4.gif" border="0">
 </center>
+
 
 
 

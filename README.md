@@ -26,6 +26,8 @@ i have change my domain to www.jabingu.com
 
 2019.8.26 更改了新的博客模版，并且将之前的博客上功能进行了移植。
 
+2020.9.1 修改了图床地址。
+
 
 
 ## License
