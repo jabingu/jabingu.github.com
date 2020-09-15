@@ -63,8 +63,9 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 - 使用**前脚掌**着地
 
 <center>
-<img src="http://image109.360doc.com/DownloadImg/2019/04/1714/159094970_5_20190417024720237" alt="Zq21qU.png" border="0">
+<img src="https://s1.ax1x.com/2020/09/15/w6tEiF.gif" alt="Zq21qU.png" border="0">
 </center>
+
 
 
 
@@ -81,10 +82,10 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 
 - le让fo回来的信号有两个：一个是左手会有一个**拉扯**，另外是右手会是准备让fo回来的**姿态**
 
-
 <center>
-<img src="http://image109.360doc.com/DownloadImg/2019/04/1714/159094970_7_20190417024720691" alt="pull back" border="0">
+<img src="https://s1.ax1x.com/2020/09/15/w6t4oT.gif" alt="pull back" border="0">
 </center>
+
 
 ## Change place
 
@@ -104,8 +105,9 @@ excerpt: Lindy Hop:简单的步伐，还有就是一些花样
 - fo`one+two`的时候反身，第一个`triple step`时候原地，第二个`triple step`时候再旋转
 
 <center>
-<img src="http://image109.360doc.com/DownloadImg/2019/04/1714/159094970_8_20190417024720831" alt="tuck turn" border="0">
+<img src="https://s1.ax1x.com/2020/09/15/w6Nfcd.gif" alt="tuck turn" border="0">
 </center>
+
 
 
 
