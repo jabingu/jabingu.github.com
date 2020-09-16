@@ -16,10 +16,11 @@ type: page
 His research interests include:  
  * Non-volatile Memory System and Architecture   
    - Hardware layer: endurance, persistence  
-   - Software layer: data structure, index,  
+   - Software layer: data structure, index  
  * Solid State Drive (SSD)  
    - Garbage collection  
-   - Cache  
+ * Cloud Storage System  
+   - Cache Allocation Scheme    
  * Software & Hardware Co-design for SSD and Storage Systems  
 
 ## EDUCATION
@@ -34,7 +35,7 @@ His research interests include:
 
 
 
-(2019.04-2019.08) *Shenzhen DAPU Microelectronics Co., Ltd*, Trainee 
+(2019.04-2020.04) *Shenzhen DAPU Microelectronics Co., Ltd*, Trainee 
 
 ## CONTACT ME
 
