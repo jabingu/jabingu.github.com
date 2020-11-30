@@ -35,7 +35,7 @@ His research interests include:
 
 
 
-(2019.04-2020.04) *Shenzhen DAPU Microelectronics Co., Ltd*, Trainee 
+(2019.04-2020.01) *Shenzhen DAPU Microelectronics Co., Ltd*, Trainee 
 
 ## CONTACT ME
 
