@@ -14,14 +14,14 @@ type: page
 
 **jabingu (顾怡斌)** is currently a PhD student in Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou.  
 His research interests include:  
- * Non-volatile Memory System and Architecture   
-   - Hardware layer: endurance, persistence  
-   - Software layer: data structure, index  
+
  * Solid State Drive (SSD)  
-   - Garbage collection  
- * Cloud Storage System  
+   - Garbage Collection  
+   - Write Amplification Reduction   
+ * Cache  
    - Cache Allocation Scheme    
- * Software & Hardware Co-design for SSD and Storage Systems  
+   - Cache Replacement Algorithms  
+ * ML for System  
 
 ## EDUCATION
 
@@ -36,6 +36,8 @@ His research interests include:
 
 
 (2019.04-2020.01) *Shenzhen DAPU Microelectronics Co., Ltd*, Trainee 
+
+(2021.01-               ) *Huawei Technologies Co., Ltd*, Trainee 
 
 ## CONTACT ME
 
