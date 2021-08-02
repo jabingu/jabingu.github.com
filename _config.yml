@@ -121,7 +121,7 @@ exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "
 # theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap # If using as a remote_theme in github
 
-
+exclude: [vendor]
 
 # url
 category_dir: category/
