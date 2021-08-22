@@ -41,21 +41,10 @@ shim sham -2019 -9
 
 ## 成都
 
-blues level 1  -2021-4-10
+blues level 1  -2021-4
 
-blues She Just Want to Dance-2021-5
+blues solo   -2021-5
 
-lindy charleston level 1 -2021-5-20
+lindy charleston level 1 -2021-6
 
-lindy hop level 4 -swing out variation 2021-7-4
-
-blues Hound dog 2021-7-22
-
-lindy hop doin the jive 2021-8-18
-
-blues Mellow Down Easy 2021-8-19
-
-balboa 2021-8-14
-
-20th Charleston Flapper Girl -2021-8-15
-
+lindy hop level 4 -swing out variation 2021-7
