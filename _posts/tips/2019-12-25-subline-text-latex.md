@@ -4,7 +4,7 @@ layout: post
 title:  "Subline text 编辑Latex文档"
 date:   2019-12-25 07:19:54
 categories: tips
-tags: tips
+tags: latex
 thumbnail: "assets/img/post/tips.jpg"
 feature-img: "assets/img/post/tips.jpg"
 excerpt: 使用subline text来编辑Latex文档
