@@ -8,45 +8,51 @@ type: page
 ---
 
 
-## PROFILE
+## Profile
 
 
 
-**jabingu (顾怡斌)** is currently a PhD student in Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou.  
+**Yibin Gu (顾怡斌)** is currently a PhD student in Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou.  
 His research interests include:  
+**AI for Data Management**: 
+
+ * AI for Cache  
+   - Cache Allocation Scheme    
+   - Cache Replacement Algorithms  
 
  * Solid State Drive (SSD)  
    - Garbage Collection  
    - Write Amplification Reduction   
- * Cache  
-   - Cache Allocation Scheme    
-   - Cache Replacement Algorithms  
- * ML for System  
-
-## EDUCATION
 
 
+## Education
 
 (2013.09-2017.09) *Hebei University of Technology*, Electronic and Information Engineering, Bachelor Degree
 
 (2017.09-               ) *Huazhong University of Science and Technology*, Computer System Structure, Doctoral Candidate
 
-## EXPERIENCE
 
 
+## Experience
 
 (2019.04-2020.01) *Shenzhen DAPU Microelectronics Co., Ltd*, Trainee 
 
 (2021.01-               ) *Huawei Technologies Co., Ltd*, Trainee 
 
-## CONTACT ME
+
+
+## Publications
+
+[**2022`DAC**] LPCA: Learned MRC Profiling based Cache Allocation for File Storage Systems. Yibin Gu, Yifan LI, Hua Wang*, Li Liu, Ke Zhou, Wei Fang, Gang Hu, Jinhu Liu, Zhuo Chen. 
+
+
+## Contact Me
 
 
 
-* **GitHub：**[jabingu](https://github.com/jabingu)
-* **Email:** <yibingu@hust.edu.cn>, <jabingu@foxmail.com>,<jabingu.cs@gmail.com>
+* **Email:** <yibingu@hust.edu.cn>, <jabingu@foxmail.com>
 
-## LINKS
+## Links
 
 
 
