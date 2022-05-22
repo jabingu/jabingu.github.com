@@ -1,6 +1,6 @@
 ---
 
-layout: reflection
+layout: post
 title:  "药师岩组织户外活动总结"
 date:   2022-5-21 7:30:00
 categories: reflection
